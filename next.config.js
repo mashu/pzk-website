@@ -6,8 +6,8 @@ const nextConfig = {
     unoptimized: true,
   },
   // Dla GitHub Pages - zmień na nazwę repozytorium
-  // basePath: '/pzk-website',
-  // assetPrefix: '/pzk-website/',
+  basePath: process.env.NODE_ENV === 'production' ? '/pzk-website' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/pzk-website/' : '',
 };
 
 module.exports = nextConfig;
