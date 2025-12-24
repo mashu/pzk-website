@@ -1,0 +1,22 @@
+{
+  "siteName": "PZK - Polski Związek Krótkofalowców",
+  "siteDescription": "Oficjalna strona Polskiego Związku Krótkofalowców - organizacji zrzeszającej radioamatorów w Polsce od 1930 roku.",
+  "contact": {
+    "address": "ul. Jasna 14/16A, 00-041 Warszawa",
+    "email": "sekretariat@pzk.org.pl",
+    "phone": "+48 22 234 56 78"
+  },
+  "social": {
+    "facebook": "https://facebook.com/pzk",
+    "youtube": "https://youtube.com/pzk",
+    "twitter": "https://twitter.com/pzk"
+  },
+  "navigation": [
+    { "label": "Strona główna", "url": "/" },
+    { "label": "Aktualności", "url": "/aktualnosci" },
+    { "label": "O nas", "url": "/o-nas" },
+    { "label": "Członkostwo", "url": "/czlonkostwo" },
+    { "label": "Zawody", "url": "/zawody" },
+    { "label": "Kontakt", "url": "/kontakt" }
+  ]
+}

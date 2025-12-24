@@ -1,0 +1,32 @@
+{
+  "heroTitle": "Polski Związek Krótkofalowców",
+  "heroSubtitle": "Łączymy pasjonatów radiokomunikacji w Polsce od 1930 roku. Dołącz do społeczności krótkofalowców i odkryj świat łączności radiowej.",
+  "callsign": "SP PZK",
+  "quickLinks": [
+    {
+      "title": "Zostań krótkofalowcem",
+      "url": "/czlonkostwo",
+      "icon": "📡"
+    },
+    {
+      "title": "Zawody i dyplomy",
+      "url": "/zawody",
+      "icon": "🏆"
+    },
+    {
+      "title": "Kursy i egzaminy",
+      "url": "/szkolenia",
+      "icon": "📚"
+    },
+    {
+      "title": "Kluby regionalne",
+      "url": "/kluby",
+      "icon": "🗺️"
+    }
+  ],
+  "stats": {
+    "members": "15 000+",
+    "clubs": "500+",
+    "qsos": "1M+"
+  }
+}
